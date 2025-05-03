@@ -1,0 +1,34 @@
+# PyTorch and related libraries
+torch
+torchvision
+torchaudio
+pytorch-msssim
+
+# Data manipulation
+numpy
+pandas
+
+# Image processing
+opencv-python
+scikit-image
+Pillow
+
+# Clustering and machine learning
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter notebook
+jupyter
+notebook
+ipython
+ipywidgets
+
+# TensorBoard
+tensorboard
+
+# Miscellaneous utilities
+tqdm
+
+# Development and Testing
+pytest
